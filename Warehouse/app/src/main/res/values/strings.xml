@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Warehouse</string>
+    <string name="nama_item">Item</string>
+    <string name="desc">Deskripsi Produk</string>
+    <string name="date">Tanggal</string>
+    <string name="enter_name">Nama Produk</string>
+    <string name="enter_quantity">Jumlah Produk</string>
+</resources>
